@@ -23,5 +23,5 @@ Assembly language is primarily used in the following situations:
 ![Image of Levels of Code](https://raw.githubusercontent.com/colbybanbury/assemblyPicture/master/Screenshot%20from%202017-10-14%2014-03-06.png)
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+* [Assembly Language Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
 
